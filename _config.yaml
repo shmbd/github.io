@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: shmbd
+title: mbd
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@shmbd.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: myworknib@gmail.com
+  #orcid: 0000-0001-8713-9213
+  google-scholar: v5JwSGwAAAAJ&hl
   github: shmbd
-  twitter: shmbd
-  youtube: shmbd
+  #twitter: shmbd
+  #youtube: shmbd
 
 ### jekyll settings
 
