@@ -5,6 +5,6 @@
 
   # shmbd's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[shmbd.github.io/github.io](https://shmbd.github.io/github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
