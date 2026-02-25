@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include publications.html%}
+{% include citation.html lookup="Three Characterized Probiotics from Dairy Sources—Weissella confusa (ProY 5.1), Enterococcus lactis (ProY 5.3), and Leuconostoc lactis (RM 2.1)—Exhibit Potential for Antidiarrheal Effects" style="rich" %}
 
 {% include section.html %}
 
@@ -24,4 +24,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include search-info.html %}
 
-{% include list.html data="citations.csv" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" style="rich" %}
