@@ -1,0 +1,17 @@
+<ul class="publication-list">
+  {% assign pubs = site.data.citations | sort: "year" | reverse %}
+  
+  {% for pub in pubs %}
+    <li class="publication-item">
+      <strong>{{ pub.title }}</strong><br>
+      {{ pub.authors }} ({{ pub.year }}).<br>
+      <em>{{ pub.journal }}</em><br>
+      
+      {% if pub.link %}
+        <a href="{{ pub.link }}" target="_blank">View Publication</a>
+      {% endif %}
+      
+      <hr>
+    </li>
+  {% endfor %}
+</ul>
