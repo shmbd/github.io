@@ -195,13 +195,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.5256/f1000research.16434.r35849
-  title: Analysis of the complete genome of hepatitis B virus
-    subgenotype C2 isolate NHB17965 from a patient with uncomplicated chronicity
+  title: 'Peer Review Report For: Analysis of the complete genome of hepatitis B virus
+    subgenotype C2 isolate NHB17965 from a patient with uncomplicated chronicity [version
+    1; peer review: 1 approved, 1 not approved]'
   authors:
-  - Modhusudon Shaha
-  - Palash Kumar Sarker
-  - Md. Saddam Hossain
-  - Abu Hashem
+  - Mohammad Ariful Islam
   publisher: F1000 Research Ltd
   date: '2018-07-23'
   link: https://doi.org/hbpkfg
