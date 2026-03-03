@@ -115,10 +115,10 @@ log(f"{len(sources)} total source(s) to cite")
 
 log()
 
-log("Generating ")
+log("Generating citations")
 
 # list of new 
- = []
+citations = []
 
 
 # loop through compiled sources
