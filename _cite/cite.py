@@ -17,7 +17,7 @@ load_dotenv()
 errors = []
 warnings = []
 
-# output citations file
+# output  file
 output_file = "_data/citations.yaml"
 
 
@@ -29,7 +29,7 @@ log("Compiling sources")
 sources = []
 
 # in-order list of plugins to run
-plugins = ["google-scholar"] #"pubmed", "orcid", "sources"
+plugins = ["sources"] #"pubmed", "orcid", "google-scholar"
 
 # loop through plugins
 for plugin in plugins:
@@ -115,10 +115,10 @@ log(f"{len(sources)} total source(s) to cite")
 
 log()
 
-log("Generating citations")
+log("Generating ")
 
-# list of new citations
-citations = []
+# list of new 
+ = []
 
 
 # loop through compiled sources
@@ -157,7 +157,7 @@ for index, source in enumerate(sources):
                 warnings.append(
                     f"Manubot could not generate citation for source {_id} (from {file} with {plugin})"
                 )
-                # discard source from citations
+                # discard source from 
                 continue
 
     # preserve fields from input source, overriding existing fields
