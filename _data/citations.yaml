@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: 10.1007/978-981-95-3612-2_14
+  title: Applications of Nanotechnology in Healthcare
+  authors:
+  - Md. Jahirul Islam
+  - Mohammad Al Mamun
+  - Abu Hashem
+  publisher: Interdisciplinary Biotechnological Advances
+  date: '2026-01-01'
+  link: https://doi.org/hbrbbj
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/B978-0-443-26627-0.00013-0
+  title: 'Graphene from lab to fab: challenges and opportunities'
+  authors:
+  - Mohammad Al Mamun
+  - Abu Hashem
+  - Yasmin Abdul Wahab
+  - Ab Rahman Marlinda
+  - M.A. Motalib Hossain
+  - Mohd Rafie Johan
+  publisher: 'Graphene: Synthesis, Properties, Technology and Applications'
+  date: '2026-01-01'
+  link: https://doi.org/hbrbbk
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1007/s12602-025-10775-0
   title: "Three Characterized Probiotics from Dairy Sources\u2014Weissella confusa\
     \ (ProY 5.1), Enterococcus lactis (ProY 5.3), and Leuconostoc lactis (RM 2.1)\u2014\
