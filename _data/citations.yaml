@@ -25,6 +25,32 @@
   link: https://doi.org/hbrbbk
   plugin: sources.py
   file: sources.yaml
+- id: 10.1007/978-3-031-97481-6_9
+  title: Advances in Microbial-Based Electrochemical Biosensors for Heavy Metal Detection
+  authors:
+  - Ab Rahman Marlinda
+  - Norazriena Yusoff
+  - Abu Hashem
+  - Suresh Sagadevan
+  publisher: Advances in Material Research and Technology
+  date: '2025-01-01'
+  link: https://doi.org/hbrbb3
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/978-3-031-97481-6_4
+  title: Application of Biomaterials for Tissue Engineering
+  authors:
+  - Abu Hashem
+  - Ab Rahman Marlinda
+  - M. A. Motalib Hossain
+  - Mohammad Al Mamun
+  - Khanom Simarani
+  - Mohd Rafie Johan
+  publisher: Advances in Material Research and Technology
+  date: '2025-01-01'
+  link: https://doi.org/hbrbb4
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1007/s12602-025-10775-0
   title: "Three Characterized Probiotics from Dairy Sources\u2014Weissella confusa\
     \ (ProY 5.1), Enterococcus lactis (ProY 5.3), and Leuconostoc lactis (RM 2.1)\u2014\
@@ -62,20 +88,18 @@
   link: https://doi.org/hbpkd3
   plugin: sources.py
   file: sources.yaml
-- id: 10.1128/genomea.01601-17
-  title: Complete Genome Sequence of a Circulating Hepatitis B Virus Genotype C Strain
-    Isolated from a Chronically Infected Patient Identified at an Outdoor Hospital
-    in Bangladesh
+- id: 10.1016/j.jgeb.2025.100508
+  title: 'Exploring the antibacterial potential of environmental Pseudomonas aeruginosa
+    isolates: Insights from in vitro studies and genome mining approaches'
   authors:
-  - Modhusudon Shaha
-  - Keshob Chandra Das
-  - M. Saddam Hossain
-  - Munira Jahan
+  - Md. Saddam Hossain
+  - Afroza Aktar Sharna
+  - Sumaiya Sharmin
+  - Tahrima Arman Tusty
   - Abu Hashem
-  - Sabita Rezwana Rahman
-  - M. Salimullah
-  publisher: Genome Announcements
-  date: '2018-03-01'
-  link: https://doi.org/hbpkff
+  - Palash Kumar Sarker
+  publisher: Journal of Genetic Engineering and Biotechnology
+  date: '2025-09-01'
+  link: https://doi.org/hbpkd5
   plugin: sources.py
   file: sources.yaml
