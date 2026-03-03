@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: 10.1007/s12602-025-10775-0
+  title: "Three Characterized Probiotics from Dairy Sources\u2014Weissella confusa\
+    \ (ProY 5.1), Enterococcus lactis (ProY 5.3), and Leuconostoc lactis (RM 2.1)\u2014\
+    Exhibit Potential for Antidiarrheal Effects"
+  authors:
+  - Jannatul Ferdous
+  - Md. Saddam Hossain
+  - Palash Kumar Sarker
+  - Md. Shimul Bhuia
+  - Md. Sakib Al Hasan
+  - Raihan Chowdhury
+  - Md. Sarafat Ali
+  - Md. Robiul Auwal
+  - Keshob Chandra Das
+  - Muhammad Torequl Islam
+  - Abu Hashem
+  - Md. Salimullah
+  publisher: Probiotics and Antimicrobial Proteins
+  date: '2025-09-24'
+  link: https://doi.org/hbpkd6
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1128/genomea.01601-17
   title: Complete Genome Sequence of a Circulating Hepatitis B Virus Genotype C Strain
     Isolated from a Chronically Infected Patient Identified at an Outdoor Hospital
