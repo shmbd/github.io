@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Researchers
 nav:
   order: 3
   tooltip: About our team
@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research team consists of a Principal Scientific Officer (PSO), a Senior Scientific Officer (SSO), and a Scientific Officer (SO) who work collaboratively to advance the division’s research goals. The PSO provides strategic leadership and oversees project development, while the SSO coordinates ongoing research activities and supervises laboratory work. The SO actively contributes to experimental design, data generation, and analysis, ensuring the successful implementation of our microbial biotechnology research initiatives.
 
 {% include section.html %}
 
@@ -18,9 +16,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Dr. Abu hashem
 
 {% include section.html %}
 
