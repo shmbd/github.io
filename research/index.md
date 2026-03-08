@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-We mainly focus on enzymology. 
+This section highlights our scholarly publications in microbiology and microbial genomics. It includes peer-reviewed journal articles and other research outputs that reflect our works on microbial diversity, genomics, and related fields. For a complete and regularly updated list of publications and citation metrics, please visit our [Google Scholar](https://scholar.google.com/citations?user=v5JwSGwAAAAJ&hl=en] profile). 
 
 {% include section.html %}
 
