@@ -16,7 +16,7 @@ Our research team consists of a Principal Scientific Officer (PSO), a Senior Sci
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Dr. Abu hashem
+
 
 {% include section.html %}
 
