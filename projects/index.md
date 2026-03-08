@@ -7,14 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Microbial Biotechnology Division is currently involved in several research projects, including enzyme development and the discovery of new therapeutic compounds. In addition, we are developing probiotic strains with potential benefits for human health.
 
-{% include tags.html tags="publication, resource, website" %}
+#{% include tags.html tags="publication, resource, website" %}
 
-{% include search-info.html %}
+#{% include search-info.html %}
 
-{% include section.html %}
+#{% include section.html %}
 
 ## Featured
 
