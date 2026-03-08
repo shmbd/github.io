@@ -102,3 +102,47 @@
   link: https://doi.org/hbrsqn
   plugin: sources.py
   file: sources.yaml
+- id: 10.1007/s11756-025-01866-y
+  title: 'Exploration of the metabolic potential of the Corallococcus genus: a rich
+    source of secondary metabolites and CAZymes'
+  authors:
+  - Md. Saddam Hossain
+  - Shanjana Rahman Tuli
+  - Nigar Fatima
+  - Md. Tauhidul Islam Tanim
+  - Abu Hashem
+  publisher: Biologia
+  date: '2025-01-21'
+  link: https://doi.org/hbpkd4
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.neulet.2024.138007
+  title: "Phytol exerts sedative-like effects and modulates the diazepam and flumazenil\u2019\
+    s action, possibly through the GABAA receptor interaction pathway"
+  authors:
+  - Md. Torequl Islam
+  - Jannatul Ferdous
+  - Md. Sakib Al Hasan
+  - Abu Hashem
+  - Mehedi Hasan Bappi
+  - Siddique Akber Ansari
+  - Md. Amirul Islam
+  - Md. Saifuzzaman
+  publisher: Neuroscience Letters
+  date: '2024-11-01'
+  link: https://doi.org/hbrsqs
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/978-981-99-3901-5_17
+  title: The Impact of Textile Dyes on the Environment
+  authors:
+  - Tanzina Akter
+  - Anica Tasnim Protity
+  - Modhusudon Shaha
+  - Mohammad Al Mamun
+  - Abu Hashem
+  publisher: Smart Nanomaterials Technology
+  date: '2023-01-01'
+  link: https://doi.org/hbrsqt
+  plugin: sources.py
+  file: sources.yaml
