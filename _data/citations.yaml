@@ -89,3 +89,16 @@
   link: https://doi.org/hbpkd5
   plugin: sources.py
   file: sources.yaml
+- id: 10.71193/jcid.20250002
+  title: 'Antioxidant Activity of Promising Probiotic Potential Lactobacillus Plantarum:
+    A Review'
+  authors:
+  - ' Jannatul Ferdous'
+  - ' Raihan Chowdhury'
+  - ' Md. Sarafat Ali'
+  - ' Abu Hashem'
+  publisher: Journal of Chemistry Insights and Discoveries
+  date: '2025-04-02'
+  link: https://doi.org/hbrsqn
+  plugin: sources.py
+  file: sources.yaml
