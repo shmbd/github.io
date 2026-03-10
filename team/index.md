@@ -2,7 +2,7 @@
 title: Researchers
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: About our researchers
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
