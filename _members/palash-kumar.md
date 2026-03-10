@@ -3,6 +3,9 @@ name: Palash Kumar Sarker
 image: images/photo.jpg
 role: Senior Scientific Officer
 affiliation: NIB
+aliases:
+  - PK Sarker
+  - P.K. Sarker
 links:
   scholar: d3k3op4AAAAJ&hl
 ---
