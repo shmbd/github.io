@@ -1,8 +1,7 @@
 ---
 name: Md. Saddam Hossain
 image: images/saddam.jpeg
-role: Scientific Officer
-affiliation: NIB
+affiliation: SO, NIB
 aliases:
   - MS Hossain
   - M.S. Hossain
