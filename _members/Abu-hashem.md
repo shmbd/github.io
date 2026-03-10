@@ -1,7 +1,7 @@
 ---
 name: Abu Hashem, PhD (with distinction)
 image: images/photo.jpg
-role: Principal Scientific Officer and Head
+role: PSO
 affiliation: NIB
 aliases:
   - A. Hashem
