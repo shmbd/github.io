@@ -7,27 +7,26 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Microbial Biotechnology Lab is committed to transparency and global scientific exchange. Whether you are a prospective graduate student, a fellow researcher, or an industrial partner, we welcome your inquiries. Please use the navigation below to explore our published datasets, current projects, and primary points of contact.
 
+2. The "Innovation-Focused
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="hashemnib04@yahoo.com"
+  link="hashemnib04@yahoo.com"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+880 1521111532"
+  link="+880 1521111532"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https:https://www.google.com/maps/place/National+Institute+of+Biotechnology/"
 %}
 
 {% include section.html %}
