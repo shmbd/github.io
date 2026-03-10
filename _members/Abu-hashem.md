@@ -1,8 +1,7 @@
 ---
 name: Abu Hashem, PhD (with distinction)
 image: images/photo.jpg
-role: PSO
-affiliation: NIB
+affiliation: PSO, NIB
 aliases:
   - A. Hashem
   - A Hashem
