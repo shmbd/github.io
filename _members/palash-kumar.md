@@ -3,6 +3,7 @@ name: Palash Kumar Sarker
 image: images/photo.jpg
 role: SSO
 affiliation: NIB
+role: SSO
 aliases:
   - PK Sarker
   - P.K. Sarker
