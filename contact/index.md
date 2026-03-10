@@ -9,7 +9,6 @@ nav:
 
 The Microbial Biotechnology Lab is committed to transparency and global scientific exchange. Whether you are a prospective graduate student, a fellow researcher, or an industrial partner, we welcome your inquiries. Please use the navigation below to explore our published datasets, current projects, and primary points of contact.
 
-2. The "Innovation-Focused
 {%
   include button.html
   type="email"
