@@ -22,7 +22,7 @@ Our research team consists of a Principal Scientific Officer (PSO), a Senior Sci
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/hashem_sir.webp" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
