@@ -3,7 +3,7 @@
 
 # microbial biotechnology division
 
-Microorganisms like bacteria, yeast, virus, fungi, etc. have economic importance and industrial values. To have maximum benefit from these microbes, presently the Division has emphasized research for the delivery of eco-friendly products and processes in cost-effective manner. Our research interests span from the industrial enzymes to the production of any microbial products from wild or genetically modified microbial species. We are dedicated to researching various microbes to create innovative probiotics for human well-being and enzymes for industrial applications. Join us in our journey to explore the potential of microbiology for a healthier future.
+Microorganisms like bacteria, yeast, virus, fungi, etc. have economic importance and industrial values. To have maximum benefit from these microbes, presently the Division has emphasized research for the delivery of eco-friendly products and processes in cost-effective manner. Our research interests span from the industrial enzymes to the production of any microbial products from wild or genetically modified microbial species. We are dedicated to researching various microbes to create innovative probiotics for human well-being and enzymes for industrial applications. **Join us in our journey to explore the potential of microbiology for a healthier future.**
 
 {% include section.html %}
 
