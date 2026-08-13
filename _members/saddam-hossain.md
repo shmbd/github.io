@@ -3,6 +3,7 @@ name: Md. Saddam Hossain
 image: images/me.webp
 affiliation: SO, NIB
 aliases:
+  - Md. Saddam Hossain
   - MS Hossain
   - M.S. Hossain
 links:
