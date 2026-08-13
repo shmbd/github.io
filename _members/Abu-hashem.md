@@ -3,6 +3,7 @@ name: Abu Hashem, PhD (with distinction)
 image: images/hashem_sir.webp
 affiliation: PSO, NIB
 aliases:
+  - Abu Hashem
   - A. Hashem
   - A Hashem
 links:
