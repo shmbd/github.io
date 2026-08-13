@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: MBD
-subtitle: 
+title: MICROMIAL BIOTECHNOLOGY DIVISION
+subtitle: MBD
 #description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
@@ -11,7 +11,7 @@ links:
   email: myworknib@gmail.com
   #orcid: 0000-0001-7735-9888
   google-scholar: v5JwSGwAAAAJ&hl
-  github: shmbd
+  #github: shmbd
   #twitter: shmbd
   #youtube: shmbd
 
