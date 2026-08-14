@@ -1,0 +1,22 @@
+- name: Alice Johnson
+  photo: alice.jpg
+  role: PhD Student
+  years: 2023 – present
+  topic: Machine learning for protein design
+  email: alice@university.edu
+  website: https://alice.example.com
+  scholar: https://scholar.google.com/citations?user=XXXX
+
+- name: Bob Smith
+  photo: bob.jpg
+  role: Master’s Student
+  years: 2024 – present
+  topic: Computer vision for medical imaging
+  email: bob@university.edu
+
+- name: Carol Lee
+  photo: carol.jpg
+  role: Undergraduate Researcher
+  years: 2025 – present
+  topic: Bioinformatics pipelines
+  email: carol@university.edu
