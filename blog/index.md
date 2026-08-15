@@ -12,7 +12,7 @@ nav:
 
 <div class="student-card">
 
-<img src="photo.jpg" alt="Student Name">
+<img src="images/photo.jpg" alt="Student Name">
 
 <h3>Naim</h3>
 
