@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Lab Members
 ### Student 1
 
-<img src="images/photo.jpg" alt="Student 1" width="180">
+<img src="{{ '/images/photo.jpg' | relative_url }}" alt="Student" width="200">
 
 **Student 1**  
 PhD Student  
