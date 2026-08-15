@@ -36,7 +36,7 @@ nav:
 
 </div>
 
-<h3 style="color: #2c7a7b;">Alumnus</h3>
+<h2 style="color: #2c7a7b;">Alumnus</h2>
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;">
 
