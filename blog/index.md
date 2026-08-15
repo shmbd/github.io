@@ -6,12 +6,11 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Lab Members
-### Student 1
+### Current Members
 
 <img src="{{ '/images/me.webp' | relative_url }}" alt="Student" width="200">
 
-**Student 1**  
-PhD Student  
-Research interests: Probiotics, microbial genomics, gut microbiome, and bioinformatics.
-
+**Naim**  
+Thesis Student  
+Thesis Title: Characterization of Probiotics with Antioxidant Properties
 ---
