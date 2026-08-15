@@ -15,7 +15,7 @@ nav:
 
     <h3>Md. Naim</h3>
     <p><strong>Thesis Student</strong></p>
-    <p><strong>Thesis Title:</strong> Characterization of Probiotics with Antidiabetic Properties</p>
+    <p><strong>Thesis Title:</strong> Whole Genome Analysis of Potential Probiotic Strains with Antidiabetic Properties</p>
   </div>
 
   <div style="text-align: center;">
@@ -23,7 +23,7 @@ nav:
 
     <h3>Bijoy Ghosh</h3>
     <p><strong>Thesis Student</strong></p>
-    <p><strong>Thesis Title:</strong> Characterization of Probiotics with Antioxidant Properties</p>
+    <p><strong>Thesis Title:</strong> Characterization and Identification of Potential Probiotics with Antioxidant Properties</p>
   </div>
 
   <div style="text-align: center;">
@@ -31,7 +31,7 @@ nav:
 
     <h3>Jannatun Naima Puspo</h3>
     <p><strong>Thesis Student</strong></p>
-    <p><strong>Thesis Title:</strong> Thesis title here</p>
+    <p><strong>Thesis Title:</strong> Isolation, Identification and Characterization of `potential probiotics from Homemade Fermented Foods</p>
   </div>
 
 </div>
