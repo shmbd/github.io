@@ -9,8 +9,18 @@ nav:
 
 ## Current Students
 
---
-name: Palash Kumar Sarker
-image: images/photo.jpg
-affiliation: SSO, NIB
---
+<div class="student-grid">
+
+<div class="student-card">
+
+<img src="/mbd/assets/img/students/student1.jpg" alt="Student Name">
+
+<h3>Student Name</h3>
+
+<p><strong>PhD Student</strong></p>
+
+<p>
+Working on microbial genomics, probiotics, and gut microbiome research.
+</p>
+
+</div>
