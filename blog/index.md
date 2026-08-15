@@ -8,14 +8,30 @@ nav:
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Lab Members
 ### Current Members
 
-<img src="{{ '/images/naim.webp' | relative_url }}" alt="Student" width="200">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;">
 
-**Naim**  
-Thesis Student  
-Thesis Title: Characterization of Probiotics with Antidiabetic Properties
+  <div style="text-align: center;">
+    <img src="{{ '/images/naim.webp' | relative_url }}" alt="Naim" width="180">
 
-<img src="{{ '/images/bijoy.webp' | relative_url }}" alt="Student" width="200">
+    <h3>Naim</h3>
+    <p><strong>Thesis Student</strong></p>
+    <p><strong>Thesis Title:</strong> Characterization of Probiotics with Antidiabetic Properties</p>
+  </div>
 
-**Bijoy Ghosh**  
-Thesis Student  
-Thesis Title: Characterization of Probiotics with Antioxidant Properties
+  <div style="text-align: center;">
+    <img src="{{ '/images/bijoy.webp' | relative_url }}" alt="Bijoy Ghosh" width="180">
+
+    <h3>Bijoy Ghosh</h3>
+    <p><strong>Thesis Student</strong></p>
+    <p><strong>Thesis Title:</strong> Characterization of Probiotics with Antioxidant Properties</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="{{ '/images/student3.webp' | relative_url }}" alt="Student 3" width="180">
+
+    <h3>Student 3</h3>
+    <p><strong>Thesis Student</strong></p>
+    <p><strong>Thesis Title:</strong> Thesis title here</p>
+  </div>
+
+</div>
