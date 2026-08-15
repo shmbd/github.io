@@ -9,4 +9,8 @@ nav:
 
 ## Current Students
 
-
+--
+name: Palash Kumar Sarker
+image: images/photo.jpg
+affiliation: SSO, NIB
+--
