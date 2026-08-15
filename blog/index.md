@@ -52,7 +52,7 @@ nav:
 
     <h3 style="margin: 5px 0 2px 0;">Bijoy Ghosh</h3>
     <p style="margin: 2px 0;"><strong>Thesis Student</strong></p>
-    <p style="margin: 2px 0;"><strong><strong>Active time:</strong> Mar 2025 - Apr 2026</p>
+    <p style="margin: 2px 0;"><strong>Active time:</strong> Mar 2025 - Apr 2026</p>
   </div>
 
   <div style="text-align: center;">
