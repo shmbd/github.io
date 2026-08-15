@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Lab Members
 ### Current Members
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
 
   <div style="text-align: center;">
     <img src="{{ '/images/naim.webp' | relative_url }}" alt="Naim" width="180">
