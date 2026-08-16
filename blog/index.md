@@ -13,7 +13,7 @@ nav:
   <div style="text-align: center;">
     <img src="{{ '/images/naim.webp' | relative_url }}" alt="Naim" width="180">
 
-    <h3 style="margin: 5px 0 2px 0;">Md. Naim</h3>
+    <h3 style="margin: 5px 0 2px 0; text-align: center;">Md. Naim</h3>
     <p style="margin: 2px 0;"><strong>Thesis Student</strong></p>
     <p style="margin: 2px 0;"><strong>Thesis Title:</strong> Whole Genome Analysis of Potential Probiotic Strains with Antidiabetic Properties</p>
   </div>
