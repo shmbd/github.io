@@ -44,8 +44,7 @@ nav:
     <img src="{{ '/images/naim.webp' | relative_url }}" alt="Md. Naim" width="180">
 
     <h3 style="margin: 5px 0 2px 0;">Md. Naim</h3>
-    <p style="margin: 2px 0;"><strong>Thesis Student</strong></p>
-    <p style="margin: 2px 0;"><strong>Active time:</strong> Aug 2025 - Apr 2026</p>
+    <p style="margin: 2px 0;"><strong>Thesis Student (Aug 2025 - Apr 2026)</strong></p>
   </div>
 
   <div style="text-align: center;">
