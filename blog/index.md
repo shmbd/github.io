@@ -86,7 +86,7 @@ nav:
     <img src="{{ '/images/sharna.webp' | relative_url }}" alt="Afroza Aktar Sharna" width="180">
 
     <h3 style="margin: 5px 0 2px 0; text-align: center;">Afroza Aktar Sharna</h3>
-    <p style="margin: 2px 0;"><strong>Current Affiliation</strong> Incepta Pharmaceuticals</p>
+    <p style="margin: 2px 0;"><strong>Current Affiliation:</strong> Incepta Pharmaceuticals</p>
   </div>
   
 </div>
