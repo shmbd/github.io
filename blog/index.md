@@ -36,7 +36,7 @@ nav:
 
 </div>
 
-<h3 style="color: #2c7a7b;">Alumnus</h3>
+<h3 style="color: #2c7a7b;">Former Members</h3>
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;">
 
@@ -86,7 +86,7 @@ nav:
     <img src="{{ '/images/sharna.webp' | relative_url }}" alt="Afroza Aktar Sharna" width="180">
 
     <h3 style="margin: 5px 0 2px 0; text-align: center;">Afroza Aktar Sharna</h3>
-    <p style="margin: 2px 0;"><strong>Research Fellow & Thesis Student (To be mentioned)</strong></p>
+    <p style="margin: 2px 0;"><strong>Current Affiliation</strong> Incepta Pharmaceuticals</p>
   </div>
   
 </div>
